@@ -1,4 +1,4 @@
-var recipies
+var recipies = Object
 
 function destructivelyupdateObjectWithKeyAndValue(object, key, value)
 {
