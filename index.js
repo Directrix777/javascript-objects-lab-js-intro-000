@@ -2,7 +2,7 @@ var recipies
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value)
 {
-  object = Object.assign({}, {[key]: value})
+  object = Object.assign(object, {[key]: value})
   return object
 }
 
