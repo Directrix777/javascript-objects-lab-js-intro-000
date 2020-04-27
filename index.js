@@ -12,3 +12,4 @@ function updateObjectWithKeyAndValue(object, key, value)
   newObject = Object.assign(key, value)
   return newObject
 }
+*/
