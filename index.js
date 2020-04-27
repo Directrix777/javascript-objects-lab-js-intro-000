@@ -1,4 +1,4 @@
-Object recipies
+Object recipies{}
 
 function destructivelyupdateObjectWithKeyAndValue(object, key, value)
 {
